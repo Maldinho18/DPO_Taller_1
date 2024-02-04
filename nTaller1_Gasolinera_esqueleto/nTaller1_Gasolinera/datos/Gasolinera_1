@@ -1,0 +1,13 @@
+tipo:Extra:10000:10000.0
+tipo:Corriente:15000:20000.0
+tipo:Diesel:9500:10000.0
+tipo:Natural:13000:10000.0
+surtidor:Pablo:Extra:0.0:Corriente:0.0:Diesel:0.0:Natural:0.0
+surtidor:Esteban:Extra:0.0:Corriente:0.0:Diesel:0.0:Natural:0.0
+surtidor:David:Extra:0.0:Corriente:0.0:Diesel:0.0:Natural:0.0
+surtidor:Pablo:Extra:0.0:Corriente:0.0:Diesel:0.0:Natural:0.0
+empleado:Pablo:0
+empleado:Yarson:0
+empleado:David:0
+empleado:Pipe:0
+empleado:Esteban:0
